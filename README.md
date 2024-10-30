@@ -28,11 +28,11 @@ This script is designed for ease of use, enabling smooth, real-time conversation
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/rafraf-porrot/gemini-on-flet
     ```
 2. Navigate to the project directory:
     ```bash
-    cd my_project
+    cd gemini-on-flet
     ```
 3. Install the required packages:
     ```bash
