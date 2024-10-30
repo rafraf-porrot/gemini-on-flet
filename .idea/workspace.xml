@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b8acbc-ce6b-4082-bc4a-0ef694e4b379" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="32b8acbc-ce6b-4082-bc4a-0ef694e4b379" name="Changes" comment="gh auth show" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +77,37 @@
       <option name="presentableId" value="Default" />
       <updated>1730298305471</updated>
     </task>
+    <task id="LOCAL-00001" summary="git add test.txt">
+      <option name="closed" value="true" />
+      <created>1730313970419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730313970419</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gh auth login">
+      <option name="closed" value="true" />
+      <created>1730314080434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730314080434</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gh auth show">
+      <option name="closed" value="true" />
+      <created>1730315707298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730315707298</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git add test.txt" />
+    <MESSAGE value="gh auth login" />
+    <MESSAGE value="gh auth show" />
+    <option name="LAST_COMMIT_MESSAGE" value="gh auth show" />
   </component>
 </project>
