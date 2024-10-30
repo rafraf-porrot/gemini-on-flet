@@ -4,10 +4,10 @@
 This Python script is a simple chatbot application built with the [Flet library](https://flet.dev/). It allows users to enter messages and receive responses from an AI language model via an API call to Google Cloud's Generative Language API.
 
 The main features include:
+**Interactive chat interface: Users can send messages, and the bot responds using AI.
+**Clipboard controls: Options to select, copy, and paste messages within the chat. 
+**API integration: Securely accesses the API key from a .env file for authentication.
 
-Interactive chat interface: Users can send messages, and the bot responds using AI.
-Clipboard controls: Options to select, copy, and paste messages within the chat.
-API integration: Securely accesses the API key from a .env file for authentication.
 This script is designed for ease of use, enabling smooth, real-time conversations with an AI assistant.
 ## Setup
 
