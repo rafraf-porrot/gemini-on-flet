@@ -26,18 +26,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rafraf-porrot"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rafraf-porrot&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rafraf-porrot/gemini-on-flet.git",
-    "accountId": "bfb32ed7-f594-4afa-a7b8-f187ddd55100"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rafraf-porrot/gemini-on-flet.git&quot;,
+    &quot;accountId&quot;: &quot;bfb32ed7-f594-4afa-a7b8-f187ddd55100&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -151,6 +151,7 @@
     <MESSAGE value="gh auth login" />
     <MESSAGE value="gh auth show" />
     <MESSAGE value="add test.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test.txt" />
+    <MESSAGE value="commit chages" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit chages" />
   </component>
 </project>
