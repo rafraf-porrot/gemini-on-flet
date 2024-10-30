@@ -1,7 +1,7 @@
 # GEMINI CHAT BOT on FLET
 
 ## Description
-This Python script is a simple chatbot application built with the Flet library. It allows users to enter messages and receive responses from an AI language model via an API call to Google Cloud's Generative Language API.
+This Python script is a simple chatbot application built with the [Flet library](https://flet.dev/). It allows users to enter messages and receive responses from an AI language model via an API call to Google Cloud's Generative Language API.
 
 The main features include:
 
